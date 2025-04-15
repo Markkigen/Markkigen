@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Markkipngeno
-- 👀 I’m interested in cyberSecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me - 
+- 👀 I’m interested in cyberSecurity and Software Development
+- 🌱 I’m currentlysharpeningn my skills in Python
+- 💞️ I’m looking to collaborate on Cybersecurity and automation projects
+- 📫 How to reach me - whatsapp https://wa.me/254700781538
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
