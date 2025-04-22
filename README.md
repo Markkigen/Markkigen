@@ -1,34 +1,79 @@
-## 👋 Hi there, I'm Mark Kipngeno
+<h1 align="center">Hi there, I'm Mark Kipngeno 👋</h1>
 
-🚀 Aspiring Cybersecurity Specialist & Software Developer  
-💻 Passionate about building secure systems, solving real-world tech problems, and creating efficient automation tools.
+<p align="center">
+Cybersecurity Enthusiast • Software Developer • Tech Support Specialist  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Focused-blue" />
+  <img src="https://img.shields.io/badge/Python-Learning-yellow" />
+  <img src="https://img.shields.io/badge/Available_for-Freelance_&_Collab-success" />
+</p>
+
+---
 
 ## 💼 About Me
 
-- 🎓 I am a Computer Science graduate and have experience in software dvelopment, IT Support, Web Development, and CRM Systems
-- 🛡️ I’m deeply interested in Cybersecurity, with a growing skill set in network protection, vulnerability assessment, and ethical hacking.
-- 🐍 Currently learning Python 
+I’m a Computer Science graduate with experience in:
 
-- 🌐 I also build websites and manage IT systems for businesses — delivering practical tech solutions.
+- Software Development (Frontend & Backend)
+- IT Support & System Maintenance
+- Web Design (Squarespace & WordPress)
+- CRM Tools (Zoho & Business Automation)
 
-## 🧠 Skills & Tools
+I’m passionate about using technology to solve problems that matter — from building secure systems to automating everyday tasks.
 
-- Languages: Python, JavaScript, HTML, CSS, Bash
-- Cybersecurity: Network Security, Packet Analysis, Pen Testing Basics
-- Dev Tools: Git & GitHub, VS Code, Postman, Linux Terminal
-- Other: WordPress, Squarespace, Zoho CRM, Basic SQL, Troubleshooting
+---
 
-## 🤝 I’m Looking To
+## 🛠️ My Stack
 
-- Explore opportunities in Cybersecurity, IT Support, and Python Automation
-- Collaborate on open-source or freelance tech projects
-- Continue learning and contributing to the tech community
+| Domain            | Tools & Technologies |
+| ----------------- | -------------------- |
+| **Languages**     | Python, JavaScript, HTML, CSS, Bash |
+| **Cybersecurity** | Wireshark, Nmap, Packet Analysis, Network Security |
+| **Dev Tools**     | Git, GitHub, VS Code, Postman, Linux Terminal |
+| **Other Skills**  | Squarespace, WordPress, Zoho CRM, Basic SQL |
 
-## 📫 Let’s Connect
+---
 
-- WhatsApp: [Chat with me](https://wa.me/254700781538)  
+## 🔍 Current Focus
+
+- Studying **Python for Security & Automation**
+- Practicing **Ethical Hacking & Vulnerability Testing**
+- Building real-world tools and micro-projects for experience
+
+---
+
+## 🤝 Let’s Collaborate
+
+- Open to: Cybersecurity, Automation, IT Support & Web Projects
+- Flexible for: Remote, Contract, or Part-time opportunities
+- Always up for: Tech discussions, networking, or mentorship
+
+---
+
+## 📫 Contact
+
+- WhatsApp: [Click to Message](https://wa.me/254700781538)  
 - Email: markkipngeno01@gmail.com  
+
+---
+
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Markkigen&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markkigen&theme=tokyonight" alt="GitHub Streak" width="45%"/>
+</p>
+
+---
 
 ## 😄 Fun Fact
 
-I can troubleshoot a network faster than you can say “IP conflict.” 😎
+> I can troubleshoot a network faster than you can say _"IP conflict."_ 😎
+
+---
+
+<p align="center">
+Let’s build, fix, and secure the digital world — one line of code at a time.
+</p>
