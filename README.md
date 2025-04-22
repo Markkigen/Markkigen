@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @Markkipngeno
-- 👀 I’m interested in cyberSecurity and Software Development
-- 🌱 I’m currentlysharpeningn my skills in Python
-- 💞️ I’m looking to collaborate on Cybersecurity and automation projects
-- 📫 How to reach me - whatsapp https://wa.me/254700781538
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...I can troubleshoot a network faster than you can say “IP conflict” 😎
+## 👋 Hi there, I'm Mark Kipngeno
 
-<!---
-Markkigen/Markkigen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Cybersecurity Specialist & Software Developer  
+💻 Passionate about building secure systems, solving real-world tech problems, and creating efficient automation tools.
+
+## 💼 About Me
+
+- 🎓 I am a Computer Science graduate and have experience in software dvelopment, IT Support, Web Development, and CRM Systems
+- 🛡️ I’m deeply interested in Cybersecurity, with a growing skill set in network protection, vulnerability assessment, and ethical hacking.
+- 🐍 Currently enhancing my skills in Python — especially for scripting, automation, and penetration testing.
+- 🔧 I’ve worked with tools like Wireshark, Nmap, Burp Suite, and Kali Linux.
+- 🌐 I also build websites and manage IT systems for businesses — delivering practical tech solutions.
+
+## 🧠 Skills & Tools
+
+- Languages: Python, JavaScript, HTML, CSS, Bash
+- Cybersecurity: Network Security, Packet Analysis, Pen Testing Basics
+- Dev Tools: Git & GitHub, VS Code, Postman, Linux Terminal
+- Other: WordPress, Squarespace, Zoho CRM, Basic SQL, Troubleshooting
+
+## 🤝 I’m Looking To
+
+- Explore opportunities in Cybersecurity, IT Support, and Python Automation
+- Collaborate on open-source or freelance tech projects
+- Continue learning and contributing to the tech community
+
+## 📫 Let’s Connect
+
+- WhatsApp: [Chat with me](https://wa.me/254700781538)  
+- Email: markkipngeno01@gmail.com  
+
+## 😄 Fun Fact
+
+I can troubleshoot a network faster than you can say “IP conflict.” 😎
