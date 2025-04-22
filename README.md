@@ -7,8 +7,8 @@
 
 - 🎓 I am a Computer Science graduate and have experience in software dvelopment, IT Support, Web Development, and CRM Systems
 - 🛡️ I’m deeply interested in Cybersecurity, with a growing skill set in network protection, vulnerability assessment, and ethical hacking.
-- 🐍 Currently enhancing my skills in Python — especially for scripting, automation, and penetration testing.
-- 🔧 I’ve worked with tools like Wireshark, Nmap, Burp Suite, and Kali Linux.
+- 🐍 Currently learning Python 
+
 - 🌐 I also build websites and manage IT systems for businesses — delivering practical tech solutions.
 
 ## 🧠 Skills & Tools
