@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mark Kipngeno 👋</h1>
 
 <p align="center">
-Cybersecurity Enthusiast • Software Developer • Tech Support Specialist  
+Cybersecurity Enthusiast • Full-Stack Developer • Tech Support Specialist  
 </p>
 
 
@@ -46,7 +46,6 @@ I’m passionate about using technology to solve problems that matter — from b
 
 ---
 
----
 
 ### 🚀 Tech Stack
 
