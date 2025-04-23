@@ -46,16 +46,16 @@ I’m passionate about using technology to solve problems that matter — from b
 
 ---
 
-## 🛠️ My Stack
+---
 
-| Domain            | Tools & Technologies |
-| ----------------- | -------------------- |
-| **Languages**     | Python, JavaScript, HTML, CSS, Bash |
-| **Cybersecurity** | Wireshark, Nmap, Packet Analysis, Network Security |
-| **Dev Tools**     | Git, GitHub, VS Code, Postman, Linux Terminal |
-| **Other Skills**  | Squarespace, WordPress, Zoho CRM, Basic SQL |
+### 🚀 Tech Stack
+
+| Languages | Cybersecurity | Tools & Platforms |
+| --------- | ------------- | ----------------- |
+| `Python` `JavaScript` `HTML` `CSS` | `Packet Analysis` `Pen Testing` `Linux Security` | `Git & GitHub` `VS Code` `Postman` `Linux Terminal` `Zoho CRM` |
 
 ---
+
 
 ## 🔍 Current Focus
 
