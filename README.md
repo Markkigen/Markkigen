@@ -4,14 +4,6 @@
 Cybersecurity Enthusiast • Software Developer • Tech Support Specialist  
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Focused-blue" />
-  <img src="https://img.shields.io/badge/Python-Learning-yellow" />
-  <img src="https://img.shields.io/badge/Available_for-Freelance_&_Collab-success" />
-
-  
-</p>
-
 
 <p align="center">
   <!-- Languages -->
