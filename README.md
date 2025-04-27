@@ -24,6 +24,17 @@ I’m passionate about using technology to solve problems that matter — from b
 ---
 
 
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Markkigen&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markkigen&theme=tokyonight" alt="GitHub Streak" width="45%"/>
+</p>
+
+
+---
+
+
 ### 🚀 Tech Stack
 
 | Languages | Cybersecurity | Tools & Platforms |
@@ -54,14 +65,7 @@ I’m passionate about using technology to solve problems that matter — from b
 - WhatsApp: [Click to Message](https://wa.me/254700781538)  
 - Email: markkipngeno01@gmail.com  
 
----
 
-## ⚡ GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Markkigen&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markkigen&theme=tokyonight" alt="GitHub Streak" width="45%"/>
-</p>
 
 ---
 
