@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Mark Kipngeno 👋</h1>
 
----
-
 
 # 💫 About Me:
 
