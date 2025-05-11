@@ -8,7 +8,7 @@
 ⚙️ Passionate about backend architecture, API integrations, and optimizing system performance.</br>
 🔍 Currently diving deeper into DevOps practices, network security, and AI automation.</br>
 📂 Here you'll find a mix of personal builds, experiments, and real-world projects.</br>
-📡 Always coding. Always shipping. Always learning.
+📡 Always coding. Always shipping. Always learning. Am open to internships/co-working on projects etc..
 
 
 
